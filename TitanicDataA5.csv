@@ -1,0 +1,888 @@
+Name,Sex,Age,Pclass,Fate
+Mr. Owen Harris Braund,Male,18-30,3rd Class,Died
+Mrs. John Bradley (Florence Briggs Thayer) Cumings,Female,31-60,1st Class,Survived
+Miss. Laina Heikkinen,Female,18-30,3rd Class,Survived
+Mrs. Jacques Heath (Lily May Peel) Futrelle,Female,31-60,1st Class,Survived
+Mr. William Henry Allen,Male,31-60,3rd Class,Died
+Mr. James Moran,Male,18-30,3rd Class,Died
+Mr. Timothy J McCarthy,Male,31-60,1st Class,Died
+Master. Gosta Leonard Palsson,Male,17 & Below,3rd Class,Died
+Mrs. Oscar W (Elisabeth Vilhelmina Berg) Johnson,Female,18-30,3rd Class,Survived
+Mrs. Nicholas (Adele Achem) Nasser,Female,17 & Below,2nd Class,Survived
+Miss. Marguerite Rut Sandstrom,Female,17 & Below,3rd Class,Survived
+Miss. Elizabeth Bonnell,Female,31-60,1st Class,Survived
+Mr. William Henry Saundercock,Male,18-30,3rd Class,Died
+Mr. Anders Johan Andersson,Male,31-60,3rd Class,Died
+Miss. Hulda Amanda Adolfina Vestrom,Female,17 & Below,3rd Class,Died
+Mrs. (Mary D Kingcome) Hewlett,Female,31-60,2nd Class,Survived
+Master. Eugene Rice,Male,17 & Below,3rd Class,Died
+Mr. Charles Eugene Williams,Male,18-30,2nd Class,Survived
+Mrs. Julius (Emelia Maria Vandemoortele) Vander Planke,Female,31-60,3rd Class,Died
+Mrs. Fatima Masselmani,Female,18-30,3rd Class,Survived
+Mr. Joseph J Fynney,Male,31-60,2nd Class,Died
+Mr. Lawrence Beesley,Male,31-60,2nd Class,Survived
+Miss. Anna McGowan,Female,17 & Below,3rd Class,Survived
+Mr. William Thompson Sloper,Male,18-30,1st Class,Survived
+Miss. Torborg Danira Palsson,Female,17 & Below,3rd Class,Died
+Mrs. Carl Oscar (Selma Augusta Emilia Johansson) Asplund,Female,31-60,3rd Class,Survived
+Mr. Farred Chehab Emir,Male,18-30,3rd Class,Died
+Mr. Charles Alexander Fortune,Male,18-30,1st Class,Died
+Miss. Ellen O'Dwyer,Female,18-30,3rd Class,Survived
+Mr. Lalio Todoroff,Male,18-30,3rd Class,Died
+Don. Manuel E Uruchurtu,Male,31-60,1st Class,Died
+Mrs. William Augustus (Marie Eugenie) Spencer,Female,31-60,1st Class,Survived
+Miss. Mary Agatha Glynn,Female,18-30,3rd Class,Survived
+Mr. Edward H Wheadon,Male,60 Above,2nd Class,Died
+Mr. Edgar Joseph Meyer,Male,18-30,1st Class,Died
+Mr. Alexander Oskar Holverson,Male,31-60,1st Class,Died
+Mr. Hanna Mamee,Male,18-30,3rd Class,Survived
+Mr. Ernest Charles Cann,Male,18-30,3rd Class,Died
+Miss. Augusta Maria Vander Planke,Female,18-30,3rd Class,Died
+Miss. Jamila Nicola-Yarred,Female,17 & Below,3rd Class,Survived
+Mrs. Johan (Johanna Persdotter Larsson) Ahlin,Female,31-60,3rd Class,Died
+Mrs. William John Robert (Dorothy Ann Wonnacott) Turpin,Female,18-30,2nd Class,Died
+Miss. Simonne Marie Anne Andree Laroche,Female,17 & Below,2nd Class,Survived
+Miss. Margaret Delia Devaney,Female,18-30,3rd Class,Survived
+Mr. William John Rogers,Male,18-30,3rd Class,Died
+Mr. Denis Lennon,Male,18-30,3rd Class,Died
+Miss. Bridget O'Driscoll,Female,18-30,3rd Class,Survived
+Mr. Youssef Samaan,Male,17 & Below,3rd Class,Died
+Mrs. Josef (Josefine Franchi) Arnold-Franchi,Female,18-30,3rd Class,Died
+Master. Juha Niilo Panula,Male,17 & Below,3rd Class,Died
+Mr. Richard Cater Nosworthy,Male,18-30,3rd Class,Died
+Mrs. Henry Sleeper (Myna Haxtun) Harper,Female,31-60,1st Class,Survived
+Mrs. Lizzie (Elizabeth Anne Wilkinson) Faunthorpe,Female,18-30,2nd Class,Survived
+Mr. Engelhart Cornelius Ostby,Male,60 Above,1st Class,Died
+Mr. Hugh Woolner,Male,31-60,1st Class,Survived
+Miss. Emily Rugg,Female,18-30,2nd Class,Survived
+Mr. Mansouer Novel,Male,18-30,3rd Class,Died
+Miss. Constance Mirium West,Female,17 & Below,2nd Class,Survived
+Master. William Frederick Goodwin,Male,17 & Below,3rd Class,Died
+Mr. Orsen Sirayanian,Male,18-30,3rd Class,Died
+Miss. Amelie Icard,Female,31-60,1st Class,Survived
+Mr. Henry Birkhardt Harris,Male,31-60,1st Class,Died
+Master. Harald Skoog,Male,17 & Below,3rd Class,Died
+Mr. Albert A Stewart,Male,60 Above,1st Class,Died
+Master. Gerios Moubarek,Male,17 & Below,3rd Class,Survived
+Mrs. (Elizabeth Ramell) Nye,Female,18-30,2nd Class,Survived
+Mr. Ernest James Crease,Male,18-30,3rd Class,Died
+Miss. Erna Alexandra Andersson,Female,17 & Below,3rd Class,Survived
+Mr. Vincenz Kink,Male,18-30,3rd Class,Died
+Mr. Stephen Curnow Jenkin,Male,31-60,2nd Class,Died
+Miss. Lillian Amy Goodwin,Female,17 & Below,3rd Class,Died
+Mr. Ambrose Jr Hood,Male,18-30,2nd Class,Died
+Mr. Apostolos Chronopoulos,Male,18-30,3rd Class,Died
+Mr. Lee Bing,Male,31-60,3rd Class,Survived
+Mr. Sigurd Hansen Moen,Male,18-30,3rd Class,Died
+Mr. Ivan Staneff,Male,18-30,3rd Class,Died
+Mr. Rahamin Haim Moutal,Male,18-30,3rd Class,Died
+Master. Alden Gates Caldwell,Male,17 & Below,2nd Class,Survived
+Miss. Elizabeth Dowdell,Female,18-30,3rd Class,Survived
+Mr. Achille Waelens,Male,18-30,3rd Class,Died
+Mr. Jan Baptist Sheerlinck,Male,18-30,3rd Class,Survived
+Miss. Brigdet Delia McDermott,Female,31-60,3rd Class,Survived
+Mr. Francisco M Carrau,Male,18-30,1st Class,Died
+Miss. Bertha Ilett,Female,17 & Below,2nd Class,Survived
+Mrs. Karl Alfred (Maria Mathilda Gustafsson) Backstrom,Female,31-60,3rd Class,Survived
+Mr. William Neal Ford,Male,17 & Below,3rd Class,Died
+Mr. Selman Francis Slocovski,Male,18-30,3rd Class,Died
+Miss. Mabel Helen Fortune,Female,18-30,1st Class,Survived
+Mr. Francesco Celotti,Male,18-30,3rd Class,Died
+Mr. Emil Christmann,Male,18-30,3rd Class,Died
+Mr. Paul Edvin Andreasson,Male,18-30,3rd Class,Died
+Mr. Herbert Fuller Chaffee,Male,31-60,1st Class,Died
+Mr. Bertram Frank Dean,Male,18-30,3rd Class,Died
+Mr. Daniel Coxon,Male,31-60,3rd Class,Died
+Mr. Charles Joseph Shorney,Male,18-30,3rd Class,Died
+Mr. George B Goldschmidt,Male,60 Above,1st Class,Died
+Mr. William Bertram Greenfield,Male,18-30,1st Class,Survived
+Mrs. John T (Ada Julia Bone) Doling,Female,31-60,2nd Class,Survived
+Mr. Sinai Kantor,Male,31-60,2nd Class,Died
+Miss. Matilda Petranec,Female,18-30,3rd Class,Died
+Mr. Pastcho Petroff,Male,18-30,3rd Class,Died
+Mr. Richard Frasar White,Male,18-30,1st Class,Died
+Mr. Gustaf Joel Johansson,Male,31-60,3rd Class,Died
+Mr. Anders Vilhelm Gustafsson,Male,31-60,3rd Class,Died
+Mr. Stoytcho Mionoff,Male,18-30,3rd Class,Died
+Miss. Anna Kristine Salkjelsvik,Female,18-30,3rd Class,Survived
+Mr. Albert Johan Moss,Male,18-30,3rd Class,Survived
+Mr. Tido Rekic,Male,31-60,3rd Class,Died
+Miss. Bertha Moran,Female,18-30,3rd Class,Survived
+Mr. Walter Chamberlain Porter,Male,31-60,1st Class,Died
+Miss. Hileni Zabour,Female,17 & Below,3rd Class,Died
+Mr. David John Barton,Male,18-30,3rd Class,Died
+Miss. Katriina Jussila,Female,18-30,3rd Class,Died
+Miss. Malake Attalah,Female,17 & Below,3rd Class,Died
+Mr. Edvard Pekoniemi,Male,18-30,3rd Class,Died
+Mr. Patrick Connors,Male,60 Above,3rd Class,Died
+Mr. William John Robert Turpin,Male,18-30,2nd Class,Died
+Mr. Quigg Edmond Baxter,Male,18-30,1st Class,Died
+Miss. Ellis Anna Maria Andersson,Female,17 & Below,3rd Class,Died
+Mr. Stanley George Hickman,Male,18-30,2nd Class,Died
+Mr. Leonard Charles Moore,Male,18-30,3rd Class,Died
+Mr. Nicholas Nasser,Male,31-60,2nd Class,Died
+Miss. Susan Webber,Female,31-60,2nd Class,Survived
+Mr. Percival Wayland White,Male,31-60,1st Class,Died
+Master. Elias Nicola-Yarred,Male,17 & Below,3rd Class,Survived
+Mr. Martin McMahon,Male,18-30,3rd Class,Died
+Mr. Fridtjof Arne Madsen,Male,18-30,3rd Class,Survived
+Miss. Anna Peter,Female,17 & Below,3rd Class,Survived
+Mr. Johan Ekstrom,Male,31-60,3rd Class,Died
+Mr. Jozef Drazenoic,Male,31-60,3rd Class,Died
+Mr. Domingos Fernandeo Coelho,Male,18-30,3rd Class,Died
+Mrs. Alexander A (Grace Charity Laury) Robins,Female,31-60,3rd Class,Died
+Mrs. Leopold (Mathilde Francoise Pede) Weisz,Female,18-30,2nd Class,Survived
+Mr. Samuel James Hayden Sobey,Male,18-30,2nd Class,Died
+Mr. Emile Richard,Male,18-30,2nd Class,Died
+Miss. Helen Monypeny Newsom,Female,18-30,1st Class,Survived
+Mr. Jacques Heath Futrelle,Male,31-60,1st Class,Died
+Mr. Olaf Elon Osen,Male,17 & Below,3rd Class,Died
+Mr. Victor Giglio,Male,18-30,1st Class,Died
+Mrs. Joseph (Sultana) Boulos,Female,31-60,3rd Class,Died
+Miss. Anna Sofia Nysten,Female,18-30,3rd Class,Survived
+Mrs. Pekka Pietari (Elin Matilda Dolck) Hakkarainen,Female,18-30,3rd Class,Survived
+Mr. Jeremiah Burke,Male,18-30,3rd Class,Died
+Mr. Edgardo Samuel Andrew,Male,18-30,2nd Class,Died
+Mr. Joseph Charles Nicholls,Male,18-30,2nd Class,Died
+Mr. August Edvard Andersson,Male,18-30,3rd Class,Survived
+Miss. Robina Maggie Ford,Female,17 & Below,3rd Class,Died
+Mr. Michel Navratil,Male,31-60,2nd Class,Died
+Rev. Thomas Roussel Davids Byles,Male,31-60,2nd Class,Died
+Rev. Robert James Bateman,Male,31-60,2nd Class,Died
+Mrs. Thomas (Edith Wearne) Pears,Female,18-30,1st Class,Survived
+Mr. Alfonzo Meo,Male,31-60,3rd Class,Died
+Mr. Austin Blyler van Billiard,Male,31-60,3rd Class,Died
+Mr. Ole Martin Olsen,Male,18-30,3rd Class,Died
+Mr. Charles Duane Williams,Male,31-60,1st Class,Died
+Miss. Katherine Gilnagh,Female,17 & Below,3rd Class,Survived
+Mr. Harry Corn,Male,18-30,3rd Class,Died
+Mr. Mile Smiljanic,Male,31-60,3rd Class,Died
+Master. Thomas Henry Sage,Male,17 & Below,3rd Class,Died
+Mr. John Hatfield Cribb,Male,31-60,3rd Class,Died
+Mrs. James (Elizabeth Inglis Milne) Watt,Female,31-60,2nd Class,Survived
+Mr. John Viktor Bengtsson,Male,18-30,3rd Class,Died
+Mr. Jovo Calic,Male,17 & Below,3rd Class,Died
+Master. Eino Viljami Panula,Male,17 & Below,3rd Class,Died
+Master. Frank John William Goldsmith,Male,17 & Below,3rd Class,Survived
+Mrs. (Edith Martha Bowerman) Chibnall,Female,31-60,1st Class,Survived
+Mrs. William (Anna Bernhardina Karlsson) Skoog,Female,31-60,3rd Class,Died
+Mr. John D Baumann,Male,31-60,1st Class,Died
+Mr. Lee Ling,Male,18-30,3rd Class,Died
+Mr. Wyckoff Van der hoef,Male,60 Above,1st Class,Died
+Master. Arthur Rice,Male,17 & Below,3rd Class,Died
+Miss. Eleanor Ileen Johnson,Female,17 & Below,3rd Class,Survived
+Mr. Antti Wilhelm Sivola,Male,18-30,3rd Class,Died
+Mr. James Clinch Smith,Male,31-60,1st Class,Died
+Mr. Klas Albin Klasen,Male,18-30,3rd Class,Died
+Master. Henry Forbes Lefebre,Male,17 & Below,3rd Class,Died
+Miss. Ann Elizabeth Isham,Female,31-60,1st Class,Died
+Mr. Reginald Hale,Male,18-30,2nd Class,Died
+Mr. Lionel Leonard,Male,31-60,3rd Class,Died
+Miss. Constance Gladys Sage,Female,17 & Below,3rd Class,Died
+Mr. Rene Pernot,Male,31-60,2nd Class,Died
+Master. Clarence Gustaf Hugo Asplund,Male,17 & Below,3rd Class,Died
+Master. Richard F Becker,Male,17 & Below,2nd Class,Survived
+Miss. Luise Gretchen Kink-Heilmann,Female,17 & Below,3rd Class,Survived
+Mr. Hugh Roscoe Rood,Male,31-60,1st Class,Died
+Mrs. Thomas (Johanna Godfrey) O'Brien,Female,18-30,3rd Class,Survived
+Mr. Charles Hallace Romaine,Male,31-60,1st Class,Survived
+Mr. John Bourke,Male,31-60,3rd Class,Died
+Mr. Stjepan Turcin,Male,31-60,3rd Class,Died
+Mrs. (Rosa) Pinsky,Female,31-60,2nd Class,Survived
+Mr. William Carbines,Male,18-30,2nd Class,Died
+Miss. Carla Christine Nielsine Andersen-Jensen,Female,18-30,3rd Class,Survived
+Master. Michel M Navratil,Male,17 & Below,2nd Class,Survived
+Mrs. James Joseph (Margaret Tobin) Brown,Female,31-60,1st Class,Survived
+Miss. Elise Lurette,Female,31-60,1st Class,Survived
+Mr. Robert Mernagh,Male,18-30,3rd Class,Died
+Mr. Karl Siegwart Andreas Olsen,Male,31-60,3rd Class,Died
+Miss. Margaret Madigan,Female,18-30,3rd Class,Survived
+Miss. Henriette Yrois,Female,18-30,2nd Class,Died
+Mr. Nestor Cyriel Vande Walle,Male,18-30,3rd Class,Died
+Mr. Frederick Sage,Male,17 & Below,3rd Class,Died
+Mr. Jakob Alfred Johanson,Male,31-60,3rd Class,Died
+Mr. Gerious Youseff,Male,31-60,3rd Class,Died
+Mr. Gurshon Cohen,Male,18-30,3rd Class,Survived
+Miss. Telma Matilda Strom,Female,17 & Below,3rd Class,Died
+Mr. Karl Alfred Backstrom,Male,31-60,3rd Class,Died
+Mr. Nassef Cassem Albimona,Male,18-30,3rd Class,Survived
+Miss. Helen Carr,Female,17 & Below,3rd Class,Survived
+Mr. Henry Blank,Male,31-60,1st Class,Survived
+Mr. Ahmed Ali,Male,18-30,3rd Class,Died
+Miss. Clear Annie Cameron,Female,31-60,2nd Class,Survived
+Mr. John Henry Perkin,Male,18-30,3rd Class,Died
+Mr. Hans Kristensen Givard,Male,18-30,2nd Class,Died
+Mr. Philip Kiernan,Male,18-30,3rd Class,Died
+Miss. Madeleine Newell,Female,31-60,1st Class,Survived
+Miss. Eliina Honkanen,Female,18-30,3rd Class,Survived
+Mr. Sidney Samuel Jacobsohn,Male,31-60,2nd Class,Died
+Miss. Albina Bazzani,Female,31-60,1st Class,Survived
+Mr. Walter Harris,Male,18-30,2nd Class,Died
+Mr. Victor Francis Sunderland,Male,17 & Below,3rd Class,Survived
+Mr. James H Bracken,Male,18-30,2nd Class,Died
+Mr. George Henry Green,Male,31-60,3rd Class,Died
+Mr. Christo Nenkoff,Male,18-30,3rd Class,Died
+Mr. Frederick Maxfield Hoyt,Male,31-60,1st Class,Survived
+Mr. Karl Ivar Sven Berglund,Male,18-30,3rd Class,Died
+Mr. William John Mellors,Male,18-30,2nd Class,Survived
+Mr. John Hall Lovell,Male,18-30,3rd Class,Died
+Mr. Arne Jonas Fahlstrom,Male,18-30,2nd Class,Died
+Miss. Mathilde Lefebre,Female,17 & Below,3rd Class,Died
+Mrs. Henry Birkhardt (Irene Wallach) Harris,Female,31-60,1st Class,Survived
+Mr. Bengt Edvin Larsson,Male,18-30,3rd Class,Died
+Mr. Ernst Adolf Sjostedt,Male,31-60,2nd Class,Died
+Miss. Lillian Gertrud Asplund,Female,17 & Below,3rd Class,Survived
+Mr. Robert William Norman Leyson,Male,18-30,2nd Class,Died
+Miss. Alice Phoebe Harknett,Female,18-30,3rd Class,Died
+Mr. Stephen Hold,Male,31-60,2nd Class,Died
+Miss. Marjorie Collyer,Female,17 & Below,2nd Class,Survived
+Mr. Frederick William Pengelly,Male,18-30,2nd Class,Died
+Mr. George Henry Hunt,Male,31-60,2nd Class,Died
+Miss. Thamine Zabour,Female,18-30,3rd Class,Died
+Miss. Katherine Murphy,Female,18-30,3rd Class,Survived
+Mr. Reginald Charles Coleridge,Male,18-30,2nd Class,Died
+Mr. Matti Alexanteri Maenpaa,Male,18-30,3rd Class,Died
+Mr. Sleiman Attalah,Male,18-30,3rd Class,Died
+Dr. William Edward Minahan,Male,31-60,1st Class,Died
+Miss. Agda Thorilda Viktoria Lindahl,Female,18-30,3rd Class,Died
+Mrs. William (Anna) Hamalainen,Female,18-30,2nd Class,Survived
+Mr. Richard Leonard Beckwith,Male,31-60,1st Class,Survived
+Rev. Ernest Courtenay Carter,Male,31-60,2nd Class,Died
+Mr. James George Reed,Male,18-30,3rd Class,Died
+Mrs. Wilhelm (Elna Matilda Persson) Strom,Female,18-30,3rd Class,Died
+Mr. William Thomas Stead,Male,60 Above,1st Class,Died
+Mr. William Arthur Lobb,Male,18-30,3rd Class,Died
+Mrs. Viktor (Helena Wilhelmina) Rosblom,Female,31-60,3rd Class,Died
+Mrs. Darwis (Hanne Youssef Razi) Touma,Female,18-30,3rd Class,Survived
+Mrs. Gertrude Maybelle Thorne,Female,31-60,1st Class,Survived
+Miss. Gladys Cherry,Female,18-30,1st Class,Survived
+Miss. Anna Ward,Female,31-60,1st Class,Survived
+Mrs. (Lutie Davis) Parrish,Female,31-60,2nd Class,Survived
+Master. Edvin Rojj Felix Asplund,Male,17 & Below,3rd Class,Survived
+Mr. Emil Taussig,Male,31-60,1st Class,Died
+Mr. William Harrison,Male,31-60,1st Class,Died
+Miss. Delia Henry,Female,18-30,3rd Class,Died
+Mr. David Reeves,Male,31-60,2nd Class,Died
+Mr. Ernesti Arvid Panula,Male,17 & Below,3rd Class,Died
+Mr. Ernst Ulrik Persson,Male,18-30,3rd Class,Survived
+Mrs. William Thompson (Edith Junkins) Graham,Female,31-60,1st Class,Survived
+Miss. Amelia Bissette,Female,31-60,1st Class,Survived
+Mr. Alexander Cairns,Male,18-30,1st Class,Died
+Mr. William Henry Tornquist,Male,18-30,3rd Class,Survived
+Mrs. (Elizabeth Anne Maidment) Mellinger,Female,31-60,2nd Class,Survived
+Mr. Charles H Natsch,Male,31-60,1st Class,Died
+Miss. Hanora Healy,Female,31-60,3rd Class,Survived
+Miss. Kornelia Theodosia Andrews,Female,60 Above,1st Class,Survived
+Miss. Augusta Charlotta Lindblom,Female,31-60,3rd Class,Died
+Mr. Francis Parkes,Male,18-30,2nd Class,Died
+Master. Eric Rice,Male,17 & Below,3rd Class,Died
+Mrs. Stanton (Rosa Hunt) Abbott,Female,31-60,3rd Class,Survived
+Mr. Frank Duane,Male,60 Above,3rd Class,Died
+Mr. Nils Johan Goransson Olsson,Male,18-30,3rd Class,Died
+Mr. Alfons de Pelsmaeker,Male,17 & Below,3rd Class,Died
+Mr. Edward Arthur Dorking,Male,18-30,3rd Class,Survived
+Mr. Richard William Smith,Male,31-60,1st Class,Died
+Mr. Ivan Stankovic,Male,31-60,3rd Class,Died
+Mr. Theodore de Mulder,Male,18-30,3rd Class,Survived
+Mr. Penko Naidenoff,Male,18-30,3rd Class,Died
+Mr. Masabumi Hosono,Male,31-60,2nd Class,Survived
+Miss. Kate Connolly,Female,18-30,3rd Class,Survived
+Miss. Ellen Barber,Female,18-30,1st Class,Survived
+Mrs. Dickinson H (Helen Walton) Bishop,Female,18-30,1st Class,Survived
+Mr. Rene Jacques Levy,Male,31-60,2nd Class,Died
+Miss. Aloisia Haas,Female,18-30,3rd Class,Died
+Mr. Ivan Mineff,Male,18-30,3rd Class,Died
+Mr. Ervin G Lewy,Male,18-30,1st Class,Died
+Mr. Mansour Hanna,Male,18-30,3rd Class,Died
+Miss. Helen Loraine Allison,Female,17 & Below,1st Class,Died
+Mr. Adolphe Saalfeld,Male,31-60,1st Class,Survived
+Mrs. James (Helene DeLaudeniere Chaput) Baxter,Female,31-60,1st Class,Survived
+Miss. Anna Katherine Kelly,Female,18-30,3rd Class,Survived
+Mr. Bernard McCoy,Male,18-30,3rd Class,Survived
+Mr. William Cahoone Jr Johnson,Male,18-30,3rd Class,Died
+Miss. Nora A Keane,Female,31-60,2nd Class,Survived
+Mr. Howard Hugh Williams,Male,18-30,3rd Class,Died
+Master. Hudson Trevor Allison,Male,17 & Below,1st Class,Survived
+Miss. Margaret Fleming,Female,31-60,1st Class,Survived
+Mrs. Victor de Satode (Maria Josefa Perez de Soto y Vallejo) Penasco y Castellana,Female,17 & Below,1st Class,Survived
+Mr. Samuel Abelson,Male,18-30,2nd Class,Died
+Miss. Laura Mabel Francatelli,Female,18-30,1st Class,Survived
+Miss. Margaret Bechstein Hays,Female,18-30,1st Class,Survived
+Miss. Emily Borie Ryerson,Female,18-30,1st Class,Survived
+Mrs. William (Anna Sylfven) Lahtinen,Female,18-30,2nd Class,Died
+Mr. Ignjac Hendekovic,Male,18-30,3rd Class,Died
+Mr. Benjamin Hart,Male,31-60,2nd Class,Died
+Miss. Helmina Josefina Nilsson,Female,18-30,3rd Class,Survived
+Mrs. Sinai (Miriam Sternin) Kantor,Female,18-30,2nd Class,Survived
+Dr. Ernest Moraweck,Male,31-60,2nd Class,Died
+Miss. Mary Natalie Wick,Female,31-60,1st Class,Survived
+Mrs. Frederic Oakley (Margaretta Corning Stone) Spedden,Female,31-60,1st Class,Survived
+Mr. Samuel Dennis,Male,18-30,3rd Class,Died
+Mr. Yoto Danoff,Male,18-30,3rd Class,Died
+Miss. Hilda Mary Slayter,Female,18-30,2nd Class,Survived
+Mrs. Albert Francis (Sylvia Mae Harbaugh) Caldwell,Female,18-30,2nd Class,Survived
+Mr. George John Jr Sage,Male,18-30,3rd Class,Died
+Miss. Marie Grice Young,Female,31-60,1st Class,Survived
+Mr. Johan Hansen Nysveen,Male,60 Above,3rd Class,Died
+Mrs. (Ada E Hall) Ball,Female,31-60,2nd Class,Survived
+Mrs. Frank John (Emily Alice Brown) Goldsmith,Female,31-60,3rd Class,Survived
+Miss. Jean Gertrude Hippach,Female,17 & Below,1st Class,Survived
+Miss. Agnes McCoy,Female,18-30,3rd Class,Survived
+Mr. Austen Partner,Male,31-60,1st Class,Died
+Mr. George Edward Graham,Male,31-60,1st Class,Died
+Mr. Leo Edmondus Vander Planke,Male,17 & Below,3rd Class,Died
+Mrs. Henry William (Clara Heinsheimer) Frauenthal,Female,31-60,1st Class,Survived
+Mr. Mitto Denkoff,Male,18-30,3rd Class,Died
+Mr. Thomas Clinton Pears,Male,18-30,1st Class,Died
+Miss. Elizabeth Margaret Burns,Female,31-60,1st Class,Survived
+Mr. Karl Edwart Dahl,Male,31-60,3rd Class,Survived
+Mr. Stephen Weart Blackwell,Male,31-60,1st Class,Died
+Master. Edmond Roger Navratil,Male,17 & Below,2nd Class,Survived
+Miss. Alice Elizabeth Fortune,Female,18-30,1st Class,Survived
+Mr. Erik Gustaf Collander,Male,18-30,2nd Class,Died
+Mr. Charles Frederick Waddington Sedgwick,Male,18-30,2nd Class,Died
+Mr. Stanley Hubert Fox,Male,31-60,2nd Class,Died
+Miss. Amelia Brown,Female,18-30,2nd Class,Survived
+Miss. Marion Elsie Smith,Female,31-60,2nd Class,Survived
+Mrs. Thomas Henry (Mary E Finck) Davison,Female,31-60,3rd Class,Survived
+Master. William Loch Coutts,Male,17 & Below,3rd Class,Survived
+Mr. Jovan Dimic,Male,31-60,3rd Class,Died
+Mr. Nils Martin Odahl,Male,18-30,3rd Class,Died
+Mr. Fletcher Fellows Williams-Lambert,Male,31-60,1st Class,Died
+Mr. Tannous Elias,Male,17 & Below,3rd Class,Died
+Mr. Josef Arnold-Franchi,Male,18-30,3rd Class,Died
+Mr. Wazli Yousif,Male,18-30,3rd Class,Died
+Mr. Leo Peter Vanden Steen,Male,18-30,3rd Class,Died
+Miss. Elsie Edith Bowerman,Female,18-30,1st Class,Survived
+Miss. Annie Clemmer Funk,Female,31-60,2nd Class,Died
+Miss. Mary McGovern,Female,18-30,3rd Class,Survived
+Miss. Helen Mary Mockler,Female,18-30,3rd Class,Survived
+Mr. Wilhelm Skoog,Male,31-60,3rd Class,Died
+Mr. Sebastiano del Carlo,Male,18-30,2nd Class,Died
+Mrs. (Catherine David) Barbara,Female,31-60,3rd Class,Died
+Mr. Adola Asim,Male,31-60,3rd Class,Died
+Mr. Thomas O'Brien,Male,18-30,3rd Class,Died
+Mr. Mauritz Nils Martin Adahl,Male,18-30,3rd Class,Died
+Mrs. Frank Manley (Anna Sophia Atkinson) Warren,Female,31-60,1st Class,Survived
+Mrs. (Mantoura Boulos) Moussa,Female,31-60,3rd Class,Survived
+Miss. Annie Jermyn,Female,18-30,3rd Class,Survived
+Mme. Leontine Pauline Aubart,Female,18-30,1st Class,Survived
+Mr. George Achilles Harder,Male,18-30,1st Class,Survived
+Mr. Jakob Alfred Wiklund,Male,18-30,3rd Class,Died
+Mr. William Thomas Beavan,Male,18-30,3rd Class,Died
+Mr. Sante Ringhini,Male,18-30,1st Class,Died
+Miss. Stina Viola Palsson,Female,17 & Below,3rd Class,Died
+Mrs. Edgar Joseph (Leila Saks) Meyer,Female,18-30,1st Class,Survived
+Miss. Aurora Adelia Landergren,Female,18-30,3rd Class,Survived
+Mr. Harry Elkins Widener,Male,18-30,1st Class,Died
+Mr. Tannous Betros,Male,18-30,3rd Class,Died
+Mr. Karl Gideon Gustafsson,Male,18-30,3rd Class,Died
+Miss. Rosalie Bidois,Female,31-60,1st Class,Survived
+Miss. Maria Nakid,Female,17 & Below,3rd Class,Survived
+Mr. Juho Tikkanen,Male,31-60,3rd Class,Died
+Mrs. Alexander Oskar (Mary Aline Towner) Holverson,Female,31-60,1st Class,Survived
+Mr. Vasil Plotcharsky,Male,18-30,3rd Class,Died
+Mr. Charles Henry Davies,Male,18-30,2nd Class,Died
+Master. Sidney Leonard Goodwin,Male,17 & Below,3rd Class,Died
+Miss. Kate Buss,Female,31-60,2nd Class,Survived
+Mr. Matthew Sadlier,Male,18-30,3rd Class,Died
+Miss. Bertha Lehmann,Female,17 & Below,2nd Class,Survived
+Mr. William Ernest Carter,Male,31-60,1st Class,Survived
+Mr. Carl Olof Jansson,Male,18-30,3rd Class,Survived
+Mr. Johan Birger Gustafsson,Male,18-30,3rd Class,Died
+Miss. Marjorie Newell,Female,18-30,1st Class,Survived
+Mrs. Hjalmar (Agnes Charlotta Bengtsson) Sandstrom,Female,18-30,3rd Class,Survived
+Mr. Erik Johansson,Male,18-30,3rd Class,Died
+Miss. Elina Olsson,Female,31-60,3rd Class,Died
+Mr. Peter David McKane,Male,31-60,2nd Class,Died
+Dr. Alfred Pain,Male,18-30,2nd Class,Died
+Mrs. William H (Jessie L) Trout,Female,18-30,2nd Class,Survived
+Mr. Juha Niskanen,Male,31-60,3rd Class,Survived
+Mr. John Adams,Male,18-30,3rd Class,Died
+Miss. Mari Aina Jussila,Female,18-30,3rd Class,Died
+Mr. Pekka Pietari Hakkarainen,Male,18-30,3rd Class,Died
+Miss. Marija Oreskovic,Female,18-30,3rd Class,Died
+Mr. Shadrach Gale,Male,31-60,2nd Class,Died
+Mr. Carl/Charles Peter Widegren,Male,31-60,3rd Class,Died
+Master. William Rowe Richards,Male,17 & Below,2nd Class,Survived
+Mr. Hans Martin Monsen Birkeland,Male,18-30,3rd Class,Died
+Miss. Ida Lefebre,Female,17 & Below,3rd Class,Died
+Mr. Todor Sdycoff,Male,31-60,3rd Class,Died
+Mr. Henry Hart,Male,18-30,3rd Class,Died
+Miss. Daisy E Minahan,Female,31-60,1st Class,Survived
+Mr. Alfred Fleming Cunningham,Male,18-30,2nd Class,Died
+Mr. Johan Julian Sundman,Male,31-60,3rd Class,Survived
+Mrs. Thomas (Annie Louise Rowley) Meek,Female,31-60,3rd Class,Died
+Mrs. James Vivian (Lulu Thorne Christian) Drew,Female,31-60,2nd Class,Survived
+Miss. Lyyli Karoliina Silven,Female,18-30,2nd Class,Survived
+Mr. William John Matthews,Male,18-30,2nd Class,Died
+Miss. Catharina Van Impe,Female,17 & Below,3rd Class,Died
+Mr. David Charters,Male,18-30,3rd Class,Died
+Mr. Leo Zimmerman,Male,18-30,3rd Class,Died
+Mrs. Ernst Gilbert (Anna Sigrid Maria Brogren) Danbom,Female,18-30,3rd Class,Died
+Mr. Viktor Richard Rosblom,Male,18-30,3rd Class,Died
+Mr. Phillippe Wiseman,Male,31-60,3rd Class,Died
+Mrs. Charles V (Ada Maria Winfield) Clarke,Female,18-30,2nd Class,Survived
+Miss. Kate Florence Phillips,Female,18-30,2nd Class,Survived
+Mr. James Flynn,Male,18-30,3rd Class,Died
+Mr. Berk (Berk Trembisky) Pickard,Male,31-60,3rd Class,Survived
+Mr. Mauritz Hakan Bjornstrom-Steffansson,Male,18-30,1st Class,Survived
+Mrs. Percival (Florence Kate White) Thorneycroft,Female,31-60,3rd Class,Survived
+Mrs. Charles Alexander (Alice Adelaide Slow) Louch,Female,31-60,2nd Class,Survived
+Mr. Nikolai Erland Kallio,Male,17 & Below,3rd Class,Died
+Mr. William Baird Silvey,Male,31-60,1st Class,Died
+Miss. Lucile Polk Carter,Female,17 & Below,1st Class,Survived
+Miss. Doolina Margaret Ford,Female,18-30,3rd Class,Died
+Mrs. Sidney (Emily Hocking) Richards,Female,18-30,2nd Class,Survived
+Mr. Mark Fortune,Male,60 Above,1st Class,Died
+Mr. Johan Henrik Johannesson Kvillner,Male,31-60,2nd Class,Died
+Mrs. Benjamin (Esther Ada Bloomfield) Hart,Female,31-60,2nd Class,Survived
+Mr. Leon Hampe,Male,18-30,3rd Class,Died
+Mr. Johan Emil Petterson,Male,18-30,3rd Class,Died
+Ms. Encarnacion Reynaldo,Female,18-30,2nd Class,Survived
+Mr. Bernt Johannesen-Bratthammer,Male,18-30,3rd Class,Survived
+Master. Washington Dodge,Male,17 & Below,1st Class,Survived
+Miss. Madeleine Violet Mellinger,Female,17 & Below,2nd Class,Survived
+Mr. Frederic Kimber Seward,Male,31-60,1st Class,Survived
+Miss. Marie Catherine Baclini,Female,17 & Below,3rd Class,Survived
+Major. Arthur Godfrey Peuchen,Male,31-60,1st Class,Survived
+Mr. Edwy Arthur West,Male,31-60,2nd Class,Died
+Mr. Ingvald Olai Olsen Hagland,Male,18-30,3rd Class,Died
+Mr. Benjamin Laventall Foreman,Male,18-30,1st Class,Died
+Mr. Samuel L Goldenberg,Male,31-60,1st Class,Survived
+Mr. Joseph Peduzzi,Male,18-30,3rd Class,Died
+Mr. Ivan Jalsevac,Male,18-30,3rd Class,Survived
+Mr. Francis Davis Millet,Male,60 Above,1st Class,Died
+Mrs. Frederick R (Marion) Kenyon,Female,31-60,1st Class,Survived
+Miss. Ellen Toomey,Female,31-60,2nd Class,Survived
+Mr. Maurice O'Connor,Male,17 & Below,3rd Class,Died
+Mr. Harry Anderson,Male,31-60,1st Class,Survived
+Mr. William Morley,Male,31-60,3rd Class,Died
+Mr. Arthur H Gee,Male,31-60,1st Class,Died
+Mr. Jacob Christian Milling,Male,31-60,2nd Class,Died
+Mr. Simon Maisner,Male,31-60,3rd Class,Died
+Mr. Manuel Estanslas Goncalves,Male,31-60,3rd Class,Died
+Mr. William Campbell,Male,18-30,2nd Class,Died
+Mr. John Montgomery Smart,Male,31-60,1st Class,Died
+Mr. James Scanlan,Male,18-30,3rd Class,Died
+Miss. Helene Barbara Baclini,Female,17 & Below,3rd Class,Survived
+Mr. Arthur Keefe,Male,31-60,3rd Class,Died
+Mr. Luka Cacic,Male,31-60,3rd Class,Died
+Mrs. Edwy Arthur (Ada Mary Worth) West,Female,31-60,2nd Class,Survived
+Mrs. Amin S (Marie Marthe Thuillard) Jerwan,Female,18-30,2nd Class,Survived
+Miss. Ida Sofia Strandberg,Female,18-30,3rd Class,Died
+Mr. George Quincy Clifford,Male,31-60,1st Class,Died
+Mr. Peter Henry Renouf,Male,31-60,2nd Class,Died
+Mr. Lewis Richard Braund,Male,18-30,3rd Class,Died
+Mr. Nils August Karlsson,Male,18-30,3rd Class,Died
+Miss. Hildur E Hirvonen,Female,17 & Below,3rd Class,Survived
+Master. Harold Victor Goodwin,Male,17 & Below,3rd Class,Died
+Mr. Anthony Wood Frost,Male,31-60,2nd Class,Died
+Mr. Richard Henry Rouse,Male,31-60,3rd Class,Died
+Mrs. (Hedwig) Turkula,Female,60 Above,3rd Class,Survived
+Mr. Dickinson H Bishop,Male,18-30,1st Class,Survived
+Miss. Jeannie Lefebre,Female,17 & Below,3rd Class,Died
+Mrs. Frederick Maxfield (Jane Anne Forby) Hoyt,Female,31-60,1st Class,Survived
+Mr. Edward Austin Kent,Male,31-60,1st Class,Died
+Mr. Francis William Somerton,Male,18-30,3rd Class,Died
+Master. Eden Leslie Coutts,Male,17 & Below,3rd Class,Survived
+Mr. Konrad Mathias Reiersen Hagland,Male,18-30,3rd Class,Died
+Mr. Einar Windelov,Male,18-30,3rd Class,Died
+Mr. Harry Markland Molson,Male,31-60,1st Class,Died
+Mr. Ramon Artagaveytia,Male,60 Above,1st Class,Died
+Mr. Edward Roland Stanley,Male,18-30,3rd Class,Died
+Mr. Gerious Yousseff,Male,18-30,3rd Class,Died
+Miss. Elizabeth Mussey Eustis,Female,31-60,1st Class,Survived
+Mr. Frederick William Shellard,Male,31-60,3rd Class,Died
+Mrs. Hudson J C (Bessie Waldo Daniels) Allison,Female,18-30,1st Class,Died
+Mr. Olof Svensson,Male,18-30,3rd Class,Died
+Mr. Petar Calic,Male,17 & Below,3rd Class,Died
+Miss. Mary Canavan,Female,18-30,3rd Class,Died
+Miss. Bridget Mary O'Sullivan,Female,18-30,3rd Class,Died
+Miss. Kristina Sofia Laitinen,Female,31-60,3rd Class,Died
+Miss. Roberta Maioni,Female,17 & Below,1st Class,Survived
+Mr. Victor de Satode Penasco y Castellana,Male,18-30,1st Class,Died
+Mrs. Frederick Charles (Jane Richards) Quick,Female,31-60,2nd Class,Survived
+Mr. George Bradley,Male,31-60,1st Class,Survived
+Mr. Henry Margido Olsen,Male,18-30,3rd Class,Died
+Mr. Fang Lang,Male,18-30,3rd Class,Survived
+Mr. Eugene Patrick Daly,Male,18-30,3rd Class,Survived
+Mr. James Webber,Male,60 Above,3rd Class,Died
+Mr. James Robert McGough,Male,31-60,1st Class,Survived
+Mrs. Martin (Elizabeth L. Barrett) Rothschild,Female,31-60,1st Class,Survived
+Mr. Satio Coleff,Male,18-30,3rd Class,Died
+Mr. William Anderson Walker,Male,31-60,1st Class,Died
+Mrs. (Amelia Milley) Lemore,Female,31-60,2nd Class,Survived
+Mr. Patrick Ryan,Male,18-30,3rd Class,Died
+Mrs. William A (Florence Agnes Hughes) Angle,Female,31-60,2nd Class,Survived
+Mr. Stefo Pavlovic,Male,31-60,3rd Class,Died
+Miss. Anne Perreault,Female,18-30,1st Class,Survived
+Mr. Janko Vovk,Male,18-30,3rd Class,Died
+Mr. Sarkis Lahoud,Male,31-60,3rd Class,Died
+Mrs. Louis Albert (Ida Sophia Fischer) Hippach,Female,31-60,1st Class,Survived
+Mr. Fared Kassem,Male,18-30,3rd Class,Died
+Mr. James Farrell,Male,31-60,3rd Class,Died
+Miss. Lucy Ridsdale,Female,31-60,2nd Class,Survived
+Mr. John Farthing,Male,31-60,1st Class,Died
+Mr. Johan Werner Salonen,Male,31-60,3rd Class,Died
+Mr. Richard George Hocking,Male,18-30,2nd Class,Died
+Miss. Phyllis May Quick,Female,17 & Below,2nd Class,Survived
+Mr. Nakli Toufik,Male,17 & Below,3rd Class,Died
+Mr. Joseph Jr Elias,Male,17 & Below,3rd Class,Died
+Mrs. Catherine (Catherine Rizk) Peter,Female,18-30,3rd Class,Survived
+Miss. Marija Cacic,Female,18-30,3rd Class,Died
+Miss. Eva Miriam Hart,Female,17 & Below,2nd Class,Survived
+Major. Archibald Willingham Butt,Male,31-60,1st Class,Died
+Miss. Bertha LeRoy,Female,18-30,1st Class,Survived
+Mr. Samuel Beard Risien,Male,60 Above,3rd Class,Died
+Miss. Hedwig Margaritha Frolicher,Female,18-30,1st Class,Survived
+Miss. Harriet R Crosby,Female,31-60,1st Class,Survived
+Miss. Ingeborg Constanzia Andersson,Female,17 & Below,3rd Class,Died
+Miss. Sigrid Elisabeth Andersson,Female,17 & Below,3rd Class,Died
+Mr. Edward Beane,Male,31-60,2nd Class,Survived
+Mr. Walter Donald Douglas,Male,31-60,1st Class,Died
+Mr. Arthur Ernest Nicholson,Male,60 Above,1st Class,Died
+Mrs. Edward (Ethel Clarke) Beane,Female,18-30,2nd Class,Survived
+Mr. Julian Padro y Manent,Male,18-30,2nd Class,Survived
+Mr. Frank John Goldsmith,Male,31-60,3rd Class,Died
+Master. John Morgan Jr Davies,Male,17 & Below,2nd Class,Survived
+Mr. John Borland Jr Thayer,Male,17 & Below,1st Class,Survived
+Mr. Percival James R Sharp,Male,18-30,2nd Class,Died
+Mr. Timothy O'Brien,Male,18-30,3rd Class,Died
+Mr. Fahim Leeni,Male,18-30,3rd Class,Survived
+Miss. Velin Ohman,Female,18-30,3rd Class,Survived
+Mr. George Wright,Male,60 Above,1st Class,Died
+Lady. (Lucille Christiana Sutherland)Duff Gordon,Female,31-60,1st Class,Survived
+Mr. Victor Robbins,Male,31-60,1st Class,Died
+Mrs. Emil (Tillie Mandelbaum) Taussig,Female,31-60,1st Class,Survived
+Mrs. Guillaume Joseph (Emma) de Messemaeker,Female,31-60,3rd Class,Survived
+Mr. Thomas Rowan Morrow,Male,18-30,3rd Class,Died
+Mr. Husein Sivic,Male,31-60,3rd Class,Died
+Mr. Robert Douglas Norman,Male,18-30,2nd Class,Died
+Mr. John Simmons,Male,31-60,3rd Class,Died
+Miss. (Marion Ogden) Meanwell,Female,60 Above,3rd Class,Died
+Mr. Alfred J Davies,Male,18-30,3rd Class,Died
+Mr. Ilia Stoytcheff,Male,18-30,3rd Class,Died
+Mrs. Nils (Alma Cornelia Berglund) Palsson,Female,18-30,3rd Class,Died
+Mr. Tannous Doharr,Male,18-30,3rd Class,Died
+Mr. Carl Jonsson,Male,31-60,3rd Class,Survived
+Mr. George Harris,Male,60 Above,2nd Class,Survived
+Mrs. Edward Dale (Charlotte Lamson) Appleton,Female,31-60,1st Class,Survived
+Mr. John Irwin Flynn,Male,31-60,1st Class,Survived
+Miss. Mary Kelly,Female,18-30,3rd Class,Survived
+Mr. Alfred George John Rush,Male,17 & Below,3rd Class,Died
+Mr. George Patchett,Male,18-30,3rd Class,Died
+Miss. Ethel Garside,Female,31-60,2nd Class,Survived
+Mrs. William Baird (Alice Munger) Silvey,Female,31-60,1st Class,Survived
+Mrs. Joseph (Maria Elias) Caram,Female,18-30,3rd Class,Died
+Mr. Eiriik Jussila,Male,31-60,3rd Class,Survived
+Miss. Julie Rachel Christy,Female,18-30,2nd Class,Survived
+Mrs. John Borland (Marian Longstreth Morris) Thayer,Female,31-60,1st Class,Survived
+Mr. William James Downton,Male,31-60,2nd Class,Died
+Mr. John Hugo Ross,Male,31-60,1st Class,Died
+Mr. Uscher Paulner,Male,17 & Below,3rd Class,Died
+Miss. Ruth Taussig,Female,18-30,1st Class,Survived
+Mr. John Denzil Jarvis,Male,31-60,2nd Class,Died
+Mr. Maxmillian Frolicher-Stehli,Male,31-60,1st Class,Survived
+Mr. Eliezer Gilinski,Male,18-30,3rd Class,Died
+Mr. Joseph Murdlin,Male,18-30,3rd Class,Died
+Mr. Matti Rintamaki,Male,31-60,3rd Class,Died
+Mrs. Walter Bertram (Martha Eustis) Stephenson,Female,31-60,1st Class,Survived
+Mr. William James Elsbury,Male,31-60,3rd Class,Died
+Miss. Mary Bourke,Female,31-60,3rd Class,Died
+Mr. John Henry Chapman,Male,31-60,2nd Class,Died
+Mr. Jean Baptiste Van Impe,Male,31-60,3rd Class,Died
+Miss. Jessie Wills Leitch,Female,31-60,2nd Class,Survived
+Mr. Alfred Johnson,Male,31-60,3rd Class,Died
+Mr. Hanna Boulos,Male,18-30,3rd Class,Died
+Sir. Cosmo Edmund Duff Gordon,Male,31-60,1st Class,Survived
+Mrs. Sidney Samuel (Amy Frances Christy) Jacobsohn,Female,18-30,2nd Class,Survived
+Mr. Petco Slabenoff,Male,31-60,3rd Class,Died
+Mr. Charles H Harrington,Male,31-60,1st Class,Died
+Mr. Ernst William Torber,Male,31-60,3rd Class,Died
+Mr. Harry Homer,Male,31-60,1st Class,Survived
+Mr. Edvard Bengtsson Lindell,Male,31-60,3rd Class,Died
+Mr. Milan Karaic,Male,18-30,3rd Class,Died
+Mr. Robert Williams Daniel,Male,18-30,1st Class,Survived
+Mrs. Joseph (Juliette Marie Louise Lafargue) Laroche,Female,18-30,2nd Class,Survived
+Miss. Elizabeth W Shutes,Female,31-60,1st Class,Survived
+Mrs. Anders Johan (Alfrida Konstantia Brogren) Andersson,Female,31-60,3rd Class,Died
+Mr. Jose Neto Jardin,Male,18-30,3rd Class,Died
+Miss. Margaret Jane Murphy,Female,18-30,3rd Class,Survived
+Mr. John Horgan,Male,18-30,3rd Class,Died
+Mr. William Alfred Brocklebank,Male,31-60,3rd Class,Died
+Miss. Alice Herman,Female,18-30,2nd Class,Survived
+Mr. Ernst Gilbert Danbom,Male,31-60,3rd Class,Died
+Mrs. William Arthur (Cordelia K Stanlick) Lobb,Female,18-30,3rd Class,Died
+Miss. Marion Louise Becker,Female,17 & Below,2nd Class,Survived
+Mr. Lawrence Gavey,Male,18-30,2nd Class,Died
+Mr. Antoni Yasbeck,Male,18-30,3rd Class,Died
+Mr. Edwin Nelson Jr Kimball,Male,31-60,1st Class,Survived
+Mr. Sahid Nakid,Male,18-30,3rd Class,Survived
+Mr. Henry Damsgaard Hansen,Male,18-30,3rd Class,Died
+Mr. David John Bowen,Male,18-30,3rd Class,Died
+Mr. Frederick Sutton,Male,60 Above,1st Class,Died
+Rev. Charles Leonard Kirkland,Male,31-60,2nd Class,Died
+Miss. Gretchen Fiske Longley,Female,18-30,1st Class,Survived
+Mr. Guentcho Bostandyeff,Male,18-30,3rd Class,Died
+Mr. Patrick D O'Connell,Male,18-30,3rd Class,Died
+Mr. Algernon Henry Wilson Barkworth,Male,60 Above,1st Class,Survived
+Mr. Johan Svensson Lundahl,Male,31-60,3rd Class,Died
+Dr. Max Stahelin-Maeglin,Male,31-60,1st Class,Survived
+Mr. William Henry Marsh Parr,Male,18-30,1st Class,Died
+Miss. Mabel Skoog,Female,17 & Below,3rd Class,Died
+Miss. Mary Davis,Female,18-30,2nd Class,Survived
+Mr. Antti Gustaf Leinonen,Male,31-60,3rd Class,Died
+Mr. Harvey Collyer,Male,31-60,2nd Class,Died
+Mrs. Juha (Maria Emilia Ojala) Panula,Female,31-60,3rd Class,Died
+Mr. Percival Thorneycroft,Male,31-60,3rd Class,Died
+Mr. Hans Peder Jensen,Male,18-30,3rd Class,Died
+Mlle. Emma Sagesser,Female,18-30,1st Class,Survived
+Miss. Margit Elizabeth Skoog,Female,17 & Below,3rd Class,Died
+Mr. Choong Foo,Male,31-60,3rd Class,Survived
+Miss. Eugenie Baclini,Female,17 & Below,3rd Class,Survived
+Mr. Henry Sleeper Harper,Male,31-60,1st Class,Survived
+Mr. Liudevit Cor,Male,18-30,3rd Class,Died
+Col. Oberst Alfons Simonius-Blumer,Male,31-60,1st Class,Survived
+Mr. Edward Willey,Male,18-30,3rd Class,Died
+Miss. Amy Zillah Elsie Stanley,Female,18-30,3rd Class,Survived
+Mr. Mito Mitkoff,Male,18-30,3rd Class,Died
+Miss. Elsie Doling,Female,18-30,2nd Class,Survived
+Mr. Johannes Halvorsen Kalvik,Male,18-30,3rd Class,Died
+Miss. Hanora O'Leary,Female,17 & Below,3rd Class,Survived
+Miss. Hanora Hegarty,Female,18-30,3rd Class,Died
+Mr. Leonard Mark Hickman,Male,18-30,2nd Class,Died
+Mr. Alexander Radeff,Male,18-30,3rd Class,Died
+Mrs. John (Catherine) Bourke,Female,31-60,3rd Class,Died
+Mr. George Floyd Eitemiller,Male,18-30,2nd Class,Died
+Mr. Arthur Webster Newell,Male,31-60,1st Class,Died
+Dr. Henry William Frauenthal,Male,31-60,1st Class,Survived
+Mr. Mohamed Badt,Male,31-60,3rd Class,Died
+Mr. Edward Pomeroy Colley,Male,31-60,1st Class,Died
+Mr. Peju Coleff,Male,31-60,3rd Class,Died
+Mr. Eino William Lindqvist,Male,18-30,3rd Class,Survived
+Mr. Lewis Hickman,Male,31-60,2nd Class,Died
+Mr. Reginald Fenton Butler,Male,18-30,2nd Class,Died
+Mr. Knud Paust Rommetvedt,Male,31-60,3rd Class,Died
+Mr. Jacob Cook,Male,31-60,3rd Class,Died
+Mrs. Elmer Zebley (Juliet Cummins Wright) Taylor,Female,31-60,1st Class,Survived
+Mrs. Thomas William Solomon (Elizabeth Catherine Ford) Brown,Female,31-60,2nd Class,Survived
+Mr. Thornton Davidson,Male,31-60,1st Class,Died
+Mr. Henry Michael Mitchell,Male,60 Above,2nd Class,Died
+Mr. Charles Wilhelms,Male,31-60,2nd Class,Survived
+Mr. Ennis Hastings Watson,Male,18-30,2nd Class,Died
+Mr. Gustaf Hjalmar Edvardsson,Male,18-30,3rd Class,Died
+Mr. Frederick Charles Sawyer,Male,18-30,3rd Class,Died
+Miss. Anna Sofia Turja,Female,18-30,3rd Class,Survived
+Mrs. Frederick (Augusta Tyler) Goodwin,Female,31-60,3rd Class,Died
+Mr. Thomas Drake Martinez Cardeza,Male,31-60,1st Class,Survived
+Miss. Katie Peters,Female,18-30,3rd Class,Died
+Mr. Hammad Hassab,Male,18-30,1st Class,Survived
+Mr. Thor Anderson Olsvigen,Male,18-30,3rd Class,Died
+Mr. Charles Edward Goodwin,Male,17 & Below,3rd Class,Died
+Mr. Thomas William Solomon Brown,Male,31-60,2nd Class,Died
+Mr. Joseph Philippe Lemercier Laroche,Male,18-30,2nd Class,Died
+Mr. Jaako Arnold Panula,Male,17 & Below,3rd Class,Died
+Mr. Branko Dakic,Male,18-30,3rd Class,Died
+Mr. Eberhard Thelander Fischer,Male,18-30,3rd Class,Died
+Miss. Georgette Alexandra Madill,Female,17 & Below,1st Class,Survived
+Mr. Albert Adrian Dick,Male,31-60,1st Class,Survived
+Miss. Manca Karun,Female,17 & Below,3rd Class,Survived
+Mr. Ali Lam,Male,31-60,3rd Class,Survived
+Mr. Khalil Saad,Male,18-30,3rd Class,Died
+Col. John Weir,Male,31-60,1st Class,Died
+Mr. Charles Henry Chapman,Male,31-60,2nd Class,Died
+Mr. James Kelly,Male,31-60,3rd Class,Died
+Miss. Katherine Mullens,Female,18-30,3rd Class,Survived
+Mr. John Borland Thayer,Male,31-60,1st Class,Died
+Mr. Adolf Mathias Nicolai Olsen Humblen,Male,31-60,3rd Class,Died
+Mrs. John Jacob (Madeleine Talmadge Force) Astor,Female,18-30,1st Class,Survived
+Mr. Spencer Victor Silverthorne,Male,31-60,1st Class,Survived
+Miss. Saiide Barbara,Female,18-30,3rd Class,Died
+Mr. Martin Gallagher,Male,18-30,3rd Class,Died
+Mr. Henrik Juul Hansen,Male,18-30,3rd Class,Died
+Mr. Henry Samuel Morley,Male,31-60,2nd Class,Died
+Mrs. Florence Kelly,Female,31-60,2nd Class,Survived
+Mr. Edward Pennington Calderhead,Male,31-60,1st Class,Survived
+Miss. Alice Cleaver,Female,18-30,1st Class,Survived
+Master. Halim Gonios Moubarek,Male,17 & Below,3rd Class,Survived
+Mlle. Berthe Antonine Mayne,Female,18-30,1st Class,Survived
+Mr. Herman Klaber,Male,31-60,1st Class,Died
+Mr. Elmer Zebley Taylor,Male,31-60,1st Class,Survived
+Mr. August Viktor Larsson,Male,18-30,3rd Class,Died
+Mr. Samuel Greenberg,Male,31-60,2nd Class,Died
+Mr. Peter Andreas Lauritz Andersen Soholt,Male,18-30,3rd Class,Died
+Miss. Caroline Louise Endres,Female,31-60,1st Class,Survived
+Miss. Edwina Celia Troutt,Female,18-30,2nd Class,Survived
+Mr. Malkolm Joackim Johnson,Male,31-60,3rd Class,Died
+Miss. Annie Jessie Harper,Female,17 & Below,2nd Class,Survived
+Mr. Svend Lauritz Jensen,Male,17 & Below,3rd Class,Died
+Mr. William Henry Gillespie,Male,31-60,2nd Class,Died
+Mr. Henry Price Hodges,Male,31-60,2nd Class,Died
+Mr. Norman Campbell Chambers,Male,18-30,1st Class,Survived
+Mr. Luka Oreskovic,Male,18-30,3rd Class,Died
+Mrs. Peter Henry (Lillian Jefferys) Renouf,Female,18-30,2nd Class,Survived
+Miss. Margareth Mannion,Female,18-30,3rd Class,Survived
+Mr. Kurt Arnold Gottfrid Bryhl,Male,18-30,2nd Class,Died
+Miss. Pieta Sofia Ilmakangas,Female,18-30,3rd Class,Died
+Miss. Elisabeth Walton Allen,Female,18-30,1st Class,Survived
+Mr. Houssein G N Hassan,Male,17 & Below,3rd Class,Died
+Mr. Robert J Knight,Male,31-60,2nd Class,Died
+Mr. William John Berriman,Male,18-30,2nd Class,Died
+Mr. Moses Aaron Troupiansky,Male,18-30,2nd Class,Died
+Mr. Leslie Williams,Male,18-30,3rd Class,Died
+Mrs. Edward (Margaret Ann Watson) Ford,Female,31-60,3rd Class,Died
+Mr. Gustave J Lesurer,Male,31-60,1st Class,Survived
+Mr. Kanio Ivanoff,Male,18-30,3rd Class,Died
+Mr. Minko Nankoff,Male,31-60,3rd Class,Died
+Mr. Walter James Hawksford,Male,31-60,1st Class,Survived
+Mr. Tyrell William Cavendish,Male,31-60,1st Class,Died
+Miss. Susan Parker Ryerson,Female,18-30,1st Class,Survived
+Mr. Neal McNamee,Male,18-30,3rd Class,Died
+Mr. Juho Stranden,Male,31-60,3rd Class,Survived
+Capt. Edward Gifford Crosby,Male,60 Above,1st Class,Died
+Mr. Rossmore Edward Abbott,Male,17 & Below,3rd Class,Died
+Miss. Anna Sinkkonen,Female,18-30,2nd Class,Survived
+Mr. Daniel Warner Marvin,Male,18-30,1st Class,Died
+Mr. Michael Connaghton,Male,31-60,3rd Class,Died
+Miss. Joan Wells,Female,17 & Below,2nd Class,Survived
+Master. Meier Moor,Male,17 & Below,3rd Class,Survived
+Mr. Johannes Joseph Vande Velde,Male,31-60,3rd Class,Died
+Mr. Lalio Jonkoff,Male,18-30,3rd Class,Died
+Mrs. Samuel (Jane Laver) Herman,Female,31-60,2nd Class,Survived
+Master. Viljo Hamalainen,Male,17 & Below,2nd Class,Survived
+Mr. August Sigfrid Carlsson,Male,18-30,3rd Class,Died
+Mr. Percy Andrew Bailey,Male,18-30,2nd Class,Died
+Mr. Thomas Leonard Theobald,Male,31-60,3rd Class,Died
+the Countess. of (Lucy Noel Martha Dyer-Edwards) Rothes,Female,31-60,1st Class,Survived
+Mr. John Garfirth,Male,18-30,3rd Class,Died
+Mr. Iisakki Antino Aijo Nirva,Male,31-60,3rd Class,Died
+Mr. Hanna Assi Barah,Male,18-30,3rd Class,Survived
+Mrs. William Ernest (Lucile Polk) Carter,Female,31-60,1st Class,Survived
+Mr. Hans Linus Eklund,Male,17 & Below,3rd Class,Died
+Mrs. John C (Anna Andrews) Hogeboom,Female,31-60,1st Class,Survived
+Dr. Arthur Jackson Brewe,Male,31-60,1st Class,Died
+Miss. Mary Mangan,Female,31-60,3rd Class,Died
+Mr. Daniel J Moran,Male,18-30,3rd Class,Died
+Mr. Daniel Danielsen Gronnestad,Male,31-60,3rd Class,Died
+Mr. Rene Aime Lievens,Male,18-30,3rd Class,Died
+Mr. Niels Peder Jensen,Male,31-60,3rd Class,Died
+Mrs. (Mary) Mack,Female,31-60,2nd Class,Died
+Mr. Dibo Elias,Male,18-30,3rd Class,Died
+Mrs. Elizabeth (Eliza Needs) Hocking,Female,31-60,2nd Class,Survived
+Mr. Pehr Fabian Oliver Malkolm Myhrman,Male,18-30,3rd Class,Died
+Mr. Roger Tobin,Male,18-30,3rd Class,Died
+Miss. Virginia Ethel Emanuel,Female,17 & Below,3rd Class,Survived
+Mr. Thomas J Kilgannon,Male,18-30,3rd Class,Died
+Mrs. Edward Scott (Elisabeth Walton McMillan) Robert,Female,31-60,1st Class,Survived
+Miss. Banoura Ayoub,Female,17 & Below,3rd Class,Survived
+Mrs. Albert Adrian (Vera Gillespie) Dick,Female,17 & Below,1st Class,Survived
+Mr. Milton Clyde Long,Male,18-30,1st Class,Died
+Mr. Andrew G Johnston,Male,31-60,3rd Class,Died
+Mr. William Ali,Male,18-30,3rd Class,Died
+Mr. Abraham (David Lishin) Harmer,Male,18-30,3rd Class,Died
+Miss. Anna Sofia Sjoblom,Female,18-30,3rd Class,Survived
+Master. George Hugh Rice,Male,17 & Below,3rd Class,Died
+Master. Bertram Vere Dean,Male,17 & Below,3rd Class,Survived
+Mr. Benjamin Guggenheim,Male,31-60,1st Class,Died
+Mr. Andrew Keane,Male,18-30,3rd Class,Died
+Mr. Alfred Gaskell,Male,17 & Below,2nd Class,Died
+Miss. Stella Anna Sage,Female,18-30,3rd Class,Died
+Mr. William Fisher Hoyt,Male,31-60,1st Class,Died
+Mr. Ristiu Dantcheff,Male,18-30,3rd Class,Died
+Mr. Richard Otter,Male,31-60,2nd Class,Died
+Dr. Alice (Farnham) Leader,Female,31-60,1st Class,Survived
+Mrs. Mara Osman,Female,31-60,3rd Class,Survived
+Mr. Yousseff Ibrahim Shawah,Male,18-30,3rd Class,Died
+Mrs. Jean Baptiste (Rosalie Paula Govaert) Van Impe,Female,18-30,3rd Class,Died
+Mr. Martin Ponesell,Male,31-60,2nd Class,Died
+Mrs. Harvey (Charlotte Annie Tate) Collyer,Female,31-60,2nd Class,Survived
+Master. William Thornton II Carter,Male,17 & Below,1st Class,Survived
+Master. Assad Alexander Thomas,Male,17 & Below,3rd Class,Survived
+Mr. Oskar Arvid Hedman,Male,18-30,3rd Class,Survived
+Mr. Karl Johan Johansson,Male,31-60,3rd Class,Died
+Mr. Thomas Jr Andrews,Male,31-60,1st Class,Died
+Miss. Ellen Natalia Pettersson,Female,18-30,3rd Class,Died
+Mr. August Meyer,Male,31-60,2nd Class,Died
+Mrs. Norman Campbell (Bertha Griggs) Chambers,Female,31-60,1st Class,Survived
+Mr. William Alexander,Male,18-30,3rd Class,Died
+Mr. James Lester,Male,31-60,3rd Class,Died
+Mr. Richard James Slemen,Male,31-60,2nd Class,Died
+Miss. Ebba Iris Alfrida Andersson,Female,17 & Below,3rd Class,Died
+Mr. Ernest Portage Tomlin,Male,31-60,3rd Class,Died
+Mr. Richard Fry,Male,31-60,1st Class,Died
+Miss. Wendla Maria Heininen,Female,18-30,3rd Class,Died
+Mr. Albert Mallet,Male,31-60,2nd Class,Died
+Mr. John Fredrik Alexander Holm,Male,31-60,3rd Class,Died
+Master. Karl Thorsten Skoog,Male,17 & Below,3rd Class,Died
+Mrs. Charles Melville (Clara Jennings Gregg) Hays,Female,31-60,1st Class,Survived
+Mr. Nikola Lulic,Male,18-30,3rd Class,Survived
+Jonkheer. John George Reuchlin,Male,31-60,1st Class,Died
+Mrs. (Beila) Moor,Female,18-30,3rd Class,Survived
+Master. Urho Abraham Panula,Male,17 & Below,3rd Class,Died
+Mr. John Flynn,Male,31-60,3rd Class,Died
+Mr. Len Lam,Male,18-30,3rd Class,Died
+Master. Andre Mallet,Male,17 & Below,2nd Class,Survived
+Mr. Thomas Joseph McCormack,Male,18-30,3rd Class,Survived
+Mrs. George Nelson (Martha Evelyn) Stone,Female,60 Above,1st Class,Survived
+Mrs. Antoni (Selini Alexander) Yasbeck,Female,17 & Below,3rd Class,Survived
+Master. George Sibley Richards,Male,17 & Below,2nd Class,Survived
+Mr. Amin Saad,Male,18-30,3rd Class,Died
+Mr. Albert Augustsson,Male,18-30,3rd Class,Died
+Mr. Owen George Allum,Male,18-30,3rd Class,Died
+Miss. Sara Rebecca Compton,Female,31-60,1st Class,Survived
+Mr. Jakob Pasic,Male,18-30,3rd Class,Died
+Mr. Maurice Sirota,Male,18-30,3rd Class,Died
+Mr. Chang Chip,Male,31-60,3rd Class,Survived
+Mr. Pierre Marechal,Male,18-30,1st Class,Survived
+Mr. Ilmari Rudolf Alhomaki,Male,18-30,3rd Class,Died
+Mr. Thomas Charles Mudd,Male,17 & Below,2nd Class,Died
+Miss. Augusta Serepeca,Female,18-30,1st Class,Survived
+Mr. Peter L Lemberopolous,Male,31-60,3rd Class,Died
+Mr. Jeso Culumovic,Male,17 & Below,3rd Class,Died
+Mr. Anthony Abbing,Male,31-60,3rd Class,Died
+Mr. Douglas Bullen Sage,Male,18-30,3rd Class,Died
+Mr. Marin Markoff,Male,31-60,3rd Class,Died
+Rev. John Harper,Male,18-30,2nd Class,Died
+Mrs. Samuel L (Edwiga Grabowska) Goldenberg,Female,31-60,1st Class,Survived
+Master. Sigvard Harald Elias Andersson,Male,17 & Below,3rd Class,Died
+Mr. Johan Svensson,Male,60 Above,3rd Class,Died
+Miss. Nourelain Boulos,Female,17 & Below,3rd Class,Died
+Miss. Mary Conover Lines,Female,17 & Below,1st Class,Survived
+Mrs. Ernest Courtenay (Lilian Hughes) Carter,Female,31-60,2nd Class,Died
+Mrs. Sam (Leah Rosen) Aks,Female,18-30,3rd Class,Survived
+Mrs. George Dennick (Mary Hitchcock) Wick,Female,31-60,1st Class,Survived
+Mr. Peter Denis Daly,Male,31-60,1st Class,Survived
+Mrs. Solomon (Latifa Qurban) Baclini,Female,18-30,3rd Class,Survived
+Mr. Raihed Razi,Male,18-30,3rd Class,Died
+Mr. Claus Peter Hansen,Male,31-60,3rd Class,Died
+Mr. Frederick Edward Giles,Male,18-30,2nd Class,Died
+Mrs. Frederick Joel (Margaret Welles Barron) Swift,Female,31-60,1st Class,Survived
+Miss. Dorothy Edith Sage,Female,17 & Below,3rd Class,Died
+Mr. John William Gill,Male,18-30,2nd Class,Died
+Mrs. (Karolina) Bystrom,Female,31-60,2nd Class,Survived
+Miss. Asuncion Duran y More,Female,18-30,2nd Class,Survived
+Mr. Washington Augustus II Roebling,Male,31-60,1st Class,Died
+Mr. Philemon van Melkebeke,Male,18-30,3rd Class,Died
+Master. Harold Theodor Johnson,Male,17 & Below,3rd Class,Survived
+Mr. Cerin Balkic,Male,18-30,3rd Class,Died
+Mrs. Richard Leonard (Sallie Monypeny) Beckwith,Female,31-60,1st Class,Survived
+Mr. Frans Olof Carlsson,Male,31-60,1st Class,Died
+Mr. Victor Vander Cruyssen,Male,31-60,3rd Class,Died
+Mrs. Samuel (Hannah Wizosky) Abelson,Female,18-30,2nd Class,Survived
+Miss. Adele Kiamie Najib,Female,17 & Below,3rd Class,Survived
+Mr. Alfred Ossian Gustafsson,Male,18-30,3rd Class,Died
+Mr. Nedelio Petroff,Male,18-30,3rd Class,Died
+Mr. Kristo Laleff,Male,18-30,3rd Class,Died
+Mrs. Thomas Jr (Lily Alexenia Wilson) Potter,Female,31-60,1st Class,Survived
+Mrs. William (Imanita Parrish Hall) Shelley,Female,18-30,2nd Class,Survived
+Mr. Johann Markun,Male,31-60,3rd Class,Died
+Miss. Gerda Ulrika Dahlberg,Female,18-30,3rd Class,Died
+Mr. Frederick James Banfield,Male,18-30,2nd Class,Died
+Mr. Henry Jr Sutehall,Male,18-30,3rd Class,Died
+Mrs. William (Margaret Norton) Rice,Female,31-60,3rd Class,Died
+Rev. Juozas Montvila,Male,18-30,2nd Class,Died
+Miss. Margaret Edith Graham,Female,18-30,1st Class,Survived
+Miss. Catherine Helen Johnston,Female,17 & Below,3rd Class,Died
+Mr. Karl Howell Behr,Male,18-30,1st Class,Survived
+Mr. Patrick Dooley,Male,31-60,3rd Class,Died

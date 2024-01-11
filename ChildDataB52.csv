@@ -1,0 +1,41 @@
+Grade,Height,Footlength,Age,Sex,Domhand,FavSchSubject,HomeOccupants,SchWorkPressure,PlannedQual,Preferred2be
+12,171,27,16,Female,Right-Handed,Music,5,A lot,Graduate degree,Rich
+12,171,25,17,Male,Right-Handed,Science,4,Some,Graduate degree,Happy
+11,63,22,17,Female,Right-Handed,Mathematics and statistics,5,Some,Graduate degree,Healthy
+12,173,30,17,Male,Right-Handed,History,4,Some,Graduate degree,Rich
+12,170,28,18,Male,Right-Handed,Physical education,2,Some,Graduate degree,Happy
+12,165,22,17,Female,Right-Handed,Other,5,A lot,Undergraduate degree,Happy
+12,182,20,18,Male,Left-Handed,History,6,Very little,Graduate degree,Happy
+12,168,24,17,Female,Right-Handed,English,4,Very little,Graduate degree,Happy
+7,162,25,13,Female,Right-Handed,Languages,1,Some,Some college,Happy
+12,177,28,17,Male,Right-Handed,English,5,Some,Undergraduate degree,Healthy
+12,185,28,17,Male,Right-Handed,History,2,Very little,Graduate degree,Happy
+12,165,23,17,Female,Right-Handed,Art,4,Some,Graduate degree,Happy
+11,69,25,16,Male,Right-Handed,Mathematics and statistics,4,Some,Undergraduate degree,Healthy
+12,180,26,17,Male,Left-Handed,Other,5,None,Some college,Happy
+12,180,27,17,Female,Left-Handed,Science,3,A lot,High school,Happy
+10,200,29,18,Male,Right-Handed,Other,4,Very little,High school,Famous
+11,160,20,17,Female,Right-Handed,History,5,Some,Graduate degree,Rich
+11,167,23,16,Female,Left-Handed,Mathematics and statistics,5,A lot,Graduate degree,Happy
+7,170,25,14,Female,Left-Handed,Science,5,A lot,Graduate degree,Happy
+11,165,24,15,Female,Right-Handed,English,5,Some,Graduate degree,Happy
+12,157,21,17,Female,Right-Handed,Science,7,Very little,Undergraduate degree,Happy
+7,150,23,12,Male,Right-Handed,Languages,4,A lot,Other,Happy
+12,180,27,17,Male,Right-Handed,Languages,2,Some,Undergraduate degree,Happy
+11,170,26,16,Male,Right-Handed,Physical education,3,Very little,Some college,Healthy
+7,157,23,13,Female,Right-Handed,Physical education,5,A lot,Undergraduate degree,Healthy
+11,166,22.5,15,Male,Right-Handed,Mathematics and statistics,4,Very little,Some college,Rich
+12,163,23,17,Female,Right-Handed,Social studies,4,A lot,Graduate degree,Famous
+12,177,25,17,Female,Left-Handed,Science,3,Some,Graduate degree,Rich
+12,191,29,16,Male,Right-Handed,Physical education,4,Some,Undergraduate degree,Rich
+12,140,25,17,Male,Right-Handed,Physical education,6,Some,Graduate degree,Rich
+12,180,30,17,Male,Right-Handed,Computers and technology,5,Very little,Undergraduate degree,Rich
+11,178,26,15,Male,Right-Handed,Computers and technology,4,Very little,Graduate degree,Happy
+9,175,27,17,Male,Left-Handed,Physical education,3,A lot,Graduate degree,Rich
+12,160,22,17,Female,Right-Handed,Science,5,Some,Undergraduate degree,Happy
+11,173,25,16,Male,Right-Handed,Physical education,5,A lot,Graduate degree,Rich
+9,170,24,16,Male,Right-Handed,Mathematics and statistics,3,Some,Graduate degree,Happy
+12,155,12,18,Male,Right-Handed,Art,6,Some,Some college,Rich
+12,164,24,16,Female,Right-Handed,Science,4,Very little,Graduate degree,Healthy
+9,167,25,14,Male,Right-Handed,Mathematics and statistics,7,Some,Graduate degree,Happy
+12,178,24,18,Male,Right-Handed,Mathematics and statistics,3,Some,Graduate degree,Healthy
